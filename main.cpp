@@ -8,7 +8,7 @@
 using namespace std;
 int main()
 {
-Donator* d1 = new Donator(0001, "Kasun", "Kalhara","No 12, Samagi
+Donator* d1 = new Donator(0001, "Kamal", "Kalhara","No 12, Samagi
 mawatha, Panniptitiya", "0702064535", "B+");
 Donator* d2 = new Donator(0002, "Saman", "Shantha","No 12, Salmal
 mawatha, Nittabuwa", "0702034545", "O+");
